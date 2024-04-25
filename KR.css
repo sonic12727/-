@@ -1,0 +1,19 @@
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+}
+p {
+    border: 1px solid red;
+    padding: 10px;
+   }
+   
+h2 {
+    text-align: center;
+}
+img {
+    margin-left: 31%;
+}
+table { 
+    margin-left: 34%;
+}
